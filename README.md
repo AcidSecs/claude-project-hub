@@ -1,6 +1,7 @@
 # Project Hub for Claude (vn-project-hub)
 
 Created by Soroosh Hedayat
+
 Designed in Collaboration by: VectorNine Systems Inc. & Acid Secs Productions Inc.
 
 Several Claude chats working on one project keep losing track of each other. A Bridge fixes that: one shared notes page per project, with one inbox tab per session. The sessions leave each other short notes about what changed, where it is and what they need back. Desktop chats, cloud sessions and Claude Code sessions in the same project all use the same Bridge.

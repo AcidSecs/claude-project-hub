@@ -3,9 +3,19 @@
   "displayName": "Project Hub for Claude",
   "version": "0.1.0",
   "description": "Project Bridges: a shared notes page per project with one inbox per session, so chats, cloud sessions and Claude Code sessions in the same project can leave each other notes. Projects talk to each other only when you say so.",
-  "author": { "name": "VectorNine Systems Inc. & Acid Secs Productions Inc." },
+  "author": {
+    "name": "VectorNine Systems Inc. & Acid Secs Productions Inc."
+  },
   "homepage": "https://github.com/AcidSecs/claude-project-hub",
   "repository": "https://github.com/AcidSecs/claude-project-hub",
   "license": "SEE LICENSE IN LICENSE",
-  "keywords": ["bridge", "inbox", "sessions", "projects", "notes", "cross-project"]
+  "keywords": [
+    "bridge",
+    "inbox",
+    "sessions",
+    "projects",
+    "notes",
+    "cross-project"
+  ],
+  "icon": ".claude-plugin/icon.png"
 }
