@@ -19,3 +19,7 @@ Claude Docs tools, or the Google Drive connector as a fallback. Nothing to insta
 Nothing outside your own docs. Notes hold work status only; keep passwords and keys out.
 
 Read USAGE.md for the short how-to. Switch it on or off with claude-setup-wizard.
+
+## Data handling
+
+It reads and writes your own project notes (Claude Docs pages or a Drive document). Notes stay in your own account. Nothing is sent to the authors of this plugin. We run no server and receive no data, so nothing is retained by us. The plugin sends nothing to any outside service. Everything it makes stays on your own PC or in your own Google Drive and Claude account, and you can delete it any time.

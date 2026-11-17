@@ -17,5 +17,6 @@
     "notes",
     "cross-project"
   ],
-  "icon": ".claude-plugin/icon.png"
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://github.com/AcidSecs/claude-project-hub#data-handling"
 }
